@@ -1,0 +1,73 @@
+// **Group members profiles**   
+// Each profile consists of (1) avatar, (2) username, (3) personal description, (4) number of "likes" the profile will receive throughout the interaction
+	
+window.others = {
+  "posts" : [
+      {
+        "avatar": "avatars/others/george.png",
+        "username": "James",
+        "text": "I’m 22 years old and a senior in college. I'm a marketing major and hope to work on commercials in the future. I love to play video games, listen to music, and spend time with friends",
+        "likes": [45000, 50000, 110000, 150000] //4
+      },
+      {
+        "avatar": "avatars/others/sarah.png",
+        "username": "Sarah",
+        "text": "I’m Sarah, I’m 31 and a professional dancer. I mostly do contemporary and ballet, but I love all kinds of dancing. When I’m not practicing or working, I like checking out art galleries, trying new recipes, and going for walks.",
+        "likes": [12000, 14000,15000,35000,80000,100000,110000,150000,20000] //9
+      },
+      {
+        "avatar": "avatars/others/john.png",
+        "username": "John",
+        "text": "Hi there, I’m 57 years old, married, with two kids. I used to be a computer programmer for about 20 years, but quit to become a writer. I love the outdoors and spending time iwht my family.",
+		"likes": [20000, 21000] //2
+      },
+      {
+        "avatar": "avatars/others/anca.png",
+        "username": "Jennifer",
+        "text": "Right now I'm studying to become a veterinarian. Its my last year of school and Im super excited! School has been super busy, but when I have free time I try to visit my friends and family back home in the UP. I love to spend time outdoors -- especially going on long walks with my dogs.", 
+      },
+      {
+        "avatar": "avatars/others/niki.png",
+        "username": "Nick",
+        "text": "I’m a 22-year-old college student studying environmental science. I’m passionate about sustainability and climate activism. In my spare time, I enjoy rock climbing, playing the guitar, and volunteering. My dream is to work on conservation projects around the world.",
+        "likes": [40000, 450000, 90000, 100000, 150000, 155000] //6
+      },
+    {
+        "avatar": "avatars/others/mary.png",
+        "username": "Mary",
+        "text": "Hi! I’m a 40 year old mom to 7-year twin boys. They keep me busy and laughing! For work, I’m an HR assistant and mainly I provide general support for HR functions. I like scrapbooking, baking, and spending time with my family.",
+        "likes": [20000, 25000, 95000] //3
+      },
+      {
+        "avatar": "avatars/others/lauren.png",
+        "username": "Lauren",
+        "text": "Hey! I’m 28, and I am a nurse in Grand Rapids. In my downtime, I enjoy yoga, crafting, and bingewatching my favorite shows. I also watch my niece and nephews pretty often when my sister travels for work. That's when I end up bingewatching Nickelodeon! lol",
+        "likes": [12000, 38000] //1
+      },
+          {
+        "avatar": "avatars/others/kim.png",
+        "username": "Kim",
+        "text": "I’m 41 looking for full-time work after a recent divorce. I like helping people of all backgrounds. I’ve been volunteering with alot of different groups, like our local blood blank and meals on wheels. I like cats and crocheting; I love going to cat cafes local to my area.",
+        "likes": [10000, 50000, 88000, 11000, 11500, 120000, 15000] //7
+      },
+      {
+        "avatar": "avatars/others/arjen.png",
+        "username": "Noah",
+        "text": "Hey, I’m Noah, I’m 37 years old and live outside Detroit. I'm married with two kids and do graphic design and freelance work from home. I jut started coaching my daughter's club soccer team this year. In my free time, I like to read historical fiction and go for runs in the neighborhood.",
+        "likes": [12000, 40000, 120000] //3
+      },
+      {
+        "avatar": "avatars/others/heather.png",
+        "username": "Heather",
+        "text": "I'm a stay-at-home mom of three beautiful girls! Before kids, I was taking some classes online and working a dead end retail job. Now, I spend most of my time with my girls and DH. I also enjoy doing studies online now and then, though they don't pay well!",
+        "likes": [13000, 50000, 80000, 88000, 120000] //5
+      },
+      {
+        "avatar": "avatars/others/jane.png",
+        "username": "Beth",
+        "text": "Hi! I’m Beth—about to turn 50, mother to three awesome young adults, recently single and dating for the first time in two decades. Yikes. Former HS science teacher turned ultrasound technologist. Love the beach, crossword puzzles, and true crime.",
+        "likes": [10000, 50000] //6
+      },
+
+    ]
+  };
