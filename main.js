@@ -23,7 +23,7 @@ $(function() {
 	// If the study is called with a parameter for redirection, as explained in the documentation, this value is overwritten. 
 	// To the redirect link, the following information will be appended: (1) participant number, (2) condition, (3) username, (4) description submitted by participant. These variables can be extracted from the link, saved as data, and used for linking the Social Media Ostracism paradigm to subsequent tasks and measures. See documentation for more details.
 
-    settings.defaultredirect = 'https://fandm.co1.qualtrics.com/jfe/form/SV_1T85CEH2Vsxvwy2';
+    settings.defaultredirect = 'https://fandm.co1.qualtrics.com/jfe/form/SV_1T85CEH2Vsxvwy2?Random=${e://Field/Random}';
 
 	
 	// **Tasklength**     
